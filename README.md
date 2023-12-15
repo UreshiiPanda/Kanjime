@@ -5,8 +5,9 @@ A small Kanji graphics program written in C++ &amp; OpenGL
 
 <a name="readme-top"></a>
 
-<!-- smallsh gif -->
-<!--  ![small_shell](https://github.com/UreshiiPanda/SmallShell/assets/39992411/e5b00409-8922-4c6d-b11f-c6a555ac96da) -->
+<!-- kanjime gif -->
+![kanjime](https://github.com/UreshiiPanda/Kanjime/assets/39992411/e58e3f70-c4c9-48e5-9f9a-b05706800855)
+
 
 
 <!-- ABOUT THE PROJECT -->
