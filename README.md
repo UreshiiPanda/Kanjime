@@ -1,6 +1,6 @@
 # Kanjime
 
-A small Kanji graphics program written in C++ &amp; OpenGL
+A small, ugly Kanji graphics program written in C++ &amp; OpenGL
 
 
 <a name="readme-top"></a>
@@ -13,7 +13,7 @@ A small Kanji graphics program written in C++ &amp; OpenGL
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a small graphics project worked on with 1 other that involved mapping a graphic over a Kanji character to test out an animation-based Kanji memorization technique.
+This is a small, ugly graphics project worked on with 1 other that involved mapping a graphic over a Kanji character to test out an animation-based Kanji memorization technique.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
