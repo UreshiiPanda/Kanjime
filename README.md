@@ -22,7 +22,7 @@ This is a small, ugly graphics project worked on with 1 other that involved mapp
 ## Getting Started
 
 This program can be run from any command line interpreter after the program has been compiled
-by a C compiler (eg. gcc, clang). Note that a makefile has also been provided in order to
+by a C++ compiler (eg. g++, clang++). Note that a makefile has also been provided in order to
 handle compilation by executing the "make" command.
 
 
